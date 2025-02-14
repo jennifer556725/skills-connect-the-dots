@@ -22,6 +22,7 @@ _Useful tips when navigating through your repository._
 -->
 
 ## Step 1: Resolve duplicate issues
+## Duplicate of #2
 
 _Welcome to the course :tada:_
 
